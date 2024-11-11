@@ -1,9 +1,10 @@
-# Golang-server-study 
 <h1 align="center">Golang Server Study</h1>
+<!---
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Go-blue" alt="Language" />
     <img src="https://img.shields.io/badge/Status-Active-green" alt="Status" />
 </p>
+--->
 
 <p align="center">💻 A structured study project for building a Golang server, with week-by-week progress and example codes. 💻</p>
 
@@ -24,11 +25,11 @@
             <li>Error handling and Go modules</li>
         </ul>
     </li>
-    <li><b>week3</b>: <i>Building a Simple Server</i>
+    <li><b>week3</b>: <i>Concurrency and Interoperability</i>
         <ul>
-            <li>HTTP server setup</li>
-            <li>Routing and middleware</li>
-            <li>Introduction to REST APIs</li>
+            <li>Goroutines and Channels</li>
+            <li>Concurrency and Synchronization</li>
+            <li>Interoperability with C (using cgo)</li>
         </ul>
     </li>
 </ul>
