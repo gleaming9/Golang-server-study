@@ -58,8 +58,10 @@
 
 <hr/>
 
+<!---
 <h2>🤝 Contributing</h2>
 <p>Contributions are welcome! Please feel free to open issues or pull requests to improve this project.</p>
 
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+--->
