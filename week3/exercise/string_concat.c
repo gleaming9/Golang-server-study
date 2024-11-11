@@ -1,0 +1,16 @@
+//gcc -shared -o libstring_concat.dll -fPIC string_concat.c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+char* string_concat(const char* str1, const char* str2){
+    int len1 = strlen(str1);
+    int len2 = strlen(str2);
+
+    char* result = (char*)malloc(len1 + len2 + 1);
+
+    strcpy(result, str1);
+    strcat(result, str2);
+
+    return result;
+}
