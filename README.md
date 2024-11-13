@@ -15,6 +15,7 @@
     <li><b>week1</b>: Basics of Go syntax and environment setup</li>
     <li><b>week2</b>: Intermediate concepts, including structs, interfaces, and error handling</li>
     <li><b>week3</b>: Concurrency (goroutines, channels) and interoperability with C</li>
+    <li><b>week4</b>: HTTP Middleware for web development</li>
 </ul>
 
 <h2>🚀 How to Run Examples</h2>
@@ -29,3 +30,6 @@
 
 <h2>📖 About</h2>
 <p>This repository was created as part of the GDG on Campus: Kyunghee study group to record our journey in learning Go server development. It serves as a log of the concepts we studied together, based on example codes from a Go reference book.</p>
+
+<h2>🔗 Next Steps</h2>
+<p>The study in this repository has been completed. The next phase of this study will continue in the <a href="https://github.com/gleaming9/go_todo_app">go_todo_app</a> repository, where we will focus on building a full-featured todo application as part of our advanced Go server development journey.</p>
